@@ -1,3 +1,3 @@
-# Financial Fraud Detection
+# Financial Fraud Detection Coursework
 
-This repository is for storing my Financial Fraud Detection coursework.
+Short repository for storing my Financial Fraud Detection coursework.
